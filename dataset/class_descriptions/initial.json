@@ -1,0 +1,64 @@
+[
+    {
+        "parent": "psychology",
+        "description": "This class includes abstracts that are related to the scientific study of the human mind and its functions, particularly those affecting behavior in a given context. It may contain topics on mental health, cognitive processes, human development, social behavior, etc.",
+        "subclasses": [
+            {
+                "name": "social cognition",
+                "description": "This class includes abstracts that focus on the subfield of social psychology involving the study of how people perceive, think about, and remember information about others. This could include discussions about the role of perception in social interaction, the processing of social information, and how social cognition influences behavior. Abstracts under this class often delve into topics like decision making, behavior prediction, empathy, prejudice, and stereotyping. The primary emphasis of these abstracts is understanding how social information is processed, interpreted, and used to guide actions."
+            },
+            {
+                "name": "child abuse",
+                "description": "Abstracts under this class are primarily concerned with the exploration of child abuse and its psychological effects. These can include studies on the physical, sexual, emotional abuse or neglect of children, and their immediate or long-term psychological consequences. Topics can range from the identification and prevention of child abuse, intervention strategies, to the coping mechanisms employed by victims. The focus is on understanding the psychological impact of abuse on the child's development and behavior."
+            }, 
+            {
+                "name": "attention",
+                "description": "This class of abstracts is dedicated to the study of attention, a cognitive process that selects sensory information for perceptual processing. Abstracts in this class can cover a wide range of topics related to attention, such as attention span, selective attention, divided attention, sustained attention, and the like. The papers could explore the biochemical and psychological bases of attention, its role in cognition, or the effects of attention disorders. In essence, the main focus of these abstracts is the psychological mechanism of attention and its role in human behavior and cognitive processes." 
+            },
+            {
+                "name": "depression",
+                "description": "The abstracts in this class primarily deal with depression, a common and serious medical illness that negatively affects how one feels, the way one thinks and how one acts. These abstracts may delve into the causes, symptoms, and treatment of depression, or they may study the psychological effects of depression on human behavior and cognitive processes. The papers could also explore the relationship between depression and other psychological issues, such as anxiety, stress, or suicide. The overall emphasis is on understanding the psychological aspects of depression and its impacts on human behavior and cognition."
+            }
+        ]
+    }, 
+    {
+        "parent": "electrical engineering",
+        "description": "This class is related to the field of electrical engineering. This may include topics on electronics, digital computers, power engineering, telecommunications, control systems, radio-frequency engineering, signal processing, instrumentation, etc.",
+        "subclasses": [
+            {
+                "name": "electricity",
+                "description": "This class pertains to abstracts that primarily focus on the principles and applications of electricity, including power engineering, the development and implementation of electronic devices, and radio-frequency engineering. Texts discussing the technical aspects of power generation, distribution, and transmission, or those delving into the details of electronic components, should be classified under this category."
+            },
+            {
+                "name": "digital control",
+                "description": "Abstracts under this classification are majorly related to digital computers, control systems, and signal processing. If the text's main focus is on the design, analysis, and operation of control systems, especially those using digital computers or digital signal processors, it should fall under this category."
+            },
+            {
+                "name": "operational amplifier",
+                "description": "This class includes abstracts that primarily discuss operational amplifiers, a key component in many electronic devices. If an abstract explores the design, implementation, or technical details of operational amplifiers and their use in various circuits and systems, it should be classified under this category."
+            }
+        ]
+    },
+    {
+        "parent": "biochemistry",
+        "description": "This class is associated with the study of chemical processes within and relating to living organisms. It covers subjects such as molecular genetics, metabolism, protein structure and function, enzymology, cellular biochemistry, etc.",
+        "subclasses": [
+            {
+                "name": "molecular biology",
+                "description": "This class is associated with the study of biological activity at the molecular level, primarily focusing on the roles, interactions, and functions of DNA, RNA, proteins, and their biosynthesis. Abstracts discussing the structure and function of these molecules, including their roles in cellular processes and interactions, should be classified under this category."
+              },
+              {
+                "name": "polymerase chain reaction",
+                "description": "This class relates to texts discussing the Polymerase Chain Reaction (PCR) technique, a common method used in molecular biology to amplify specific DNA or RNA sequences. Abstracts that focus on the application, methodology, or improvements of PCR should be categorized under this class."
+              },
+              {
+                "name": "northern blotting",
+                "description": "This class pertains to abstracts that discuss the technique of Northern Blotting, used in molecular biology to study gene expression by detection of RNA in a sample. Texts that delve into the procedure, application, or interpretation of Northern Blotting results should fall under this classification."
+              },
+              {
+                "name": "immunology",
+                "description": "This class is associated with the study of the immune system in all its aspects, including its structure and function, disorders of the immune system, immune responses to pathogens, and immunotherapy. Abstracts discussing these topics, including the molecular mechanisms of immune responses, should be classified under immunology."
+              }
+        ]
+    }
+]
